@@ -1,5 +1,6 @@
-### Hi there 👋
-
+# Meokku <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/goat0129@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+### - 🏫school: Sungkyunkwan University
+### - 📖major: EDU & COMEDU
 <!--
 **meokku/meokku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://mail.google.com/mail/u/0/#inbox" target="_blank"><img src="https://img.shields.io/badge/goat0129@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
