@@ -1,4 +1,4 @@
-# 🐰KIM DA MIN🐰 <img src="https://img.shields.io/badge/goat0129@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
+# 🐰KIM DA MIN🐰 <img src="https://img.shields.io/badge/goat0129@naver.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/> <img src="https://img.shields.io/badge/goat0129@g.skku.edu-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=meokku&theme=material-palenight&show_icons=true) [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=goat0129)](https://solved.ac/goat0129/)
 ## 🏫School 
 Sungkyunkwan University
